@@ -1,4 +1,0 @@
-# Summary
-
-* Cosa.adoc
-
